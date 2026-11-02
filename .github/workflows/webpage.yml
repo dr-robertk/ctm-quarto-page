@@ -1,0 +1,76 @@
+name: Erasmus CTM webpage
+
+on: 
+  workflow_dispatch:
+    branches:
+      - main
+    inputs: 
+      deploy:
+        type: boolean
+        description: deploy web pages [true]
+        required: true
+        default: true
+      # needed only for dispatching from other repo
+      distinct_id:
+        required: false
+        description: 'set when dispatching from external repo - leave empty'
+
+permissions:
+  contents: write
+
+jobs:
+  buildpage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo distinct ID ${{ github.event.inputs.distinct_id }}
+        if: github.event.inputs.distinct_id != ''
+        run: echo ${{ github.event.inputs.distinct_id }}
+      # check documentation from version branch
+      - uses: actions/checkout@v4
+      #  with:
+      #    ref: ${{ github.event.inputs.version }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.14
+      # install packages
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -o Acquire::Retries=3
+          sudo apt-get install python3-numpy python3-matplotlib python3-scipy python3-ufl pandoc
+          pip install sphinx sphinxcontrib-bibtex sphinx-versioning sphinxcontrib-packages nbsphinx sphinx_rtd_theme myst_parser numpy>=1.20 scipy nbconvert ipython jupyter jupytext pandas matplotlib pandoc pyqt5 sphinx-autobuild sphinx_rtd_theme sphinxcontrib-bibtex quarto
+      # build sphinx documentation
+      # the documentation will be placed in versions/v.x.x.x.x
+      # versions/index.html is a redirection to the latest fem version directory
+      - name: checkout
+        run: |
+          git clone -b gh-pages https://github.com/${{ github.repository }}
+          echo "TUTORIAL=tutorial" >> $GITHUB_ENV
+          
+      - name: latest2branch
+        run: |
+          cd ${{ github.event.repository.name }}
+          BRANCH=`git branch -r | grep "$TUTORIAL/" | sort -rn | head -1 | cut -d "/" -f 3`
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+          echo "Using branch $BRANCH"
+          cd ../
+
+      - name: Quarto build
+        run: |
+          echo "Building quarto page $BRANCH"
+
+          # find other versions
+          cd ${{ github.event.repository.name }}/content
+          quarto render 
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        # only deploying on main branch
+        if: ${{ github.event.inputs.deploy && github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: webpage
+          # keep files to keep previous documentations
+          keep_files: ${{ github.event.inputs.keepfiles }}
+          #force_orphan: true
+
