@@ -7,14 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
-project:
-  render:
-    - "*.qmd"
-    - "!ignored.qmd"
-    - "!ignored-dir/"      
-
 format:
   html:
     theme: cosmo
