@@ -49,7 +49,7 @@ jobs:
         run: |
           echo "Building quarto page $BRANCH"
 
-          cd ${{ github.event.repository.name }}/content
+          cd ${{ github.event.repository.name }}/docs
           quarto render 
 
       - name: Deploy to GitHub Pages
