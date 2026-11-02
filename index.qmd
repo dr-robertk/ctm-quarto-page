@@ -1,14 +1,14 @@
 ---
-title: "Was Quarto kann und was nicht"
-title-en: "What Quarto Can Do"
-title-sv: "Vad Quarto kan göra"
-title-no: "Hva Quarto kan gjøre"
-title-da: "Hvad Quarto kan"
-subtitle: "Ein Beispiel zum Ausprobieren, komplett mit Quarto gebaut"
-subtitle-en: "A hands-on example — built entirely with Quarto"
-subtitle-sv: "Ett praktiskt exempel, helt byggt med Quarto"
-subtitle-no: "Et praktisk eksempel, bygget helt med Quarto"
-subtitle-da: "Et praktisk eksempel, bygget helt med Quarto"
+title: "Jan Fredriks dream page."
+title-en: "Jan Fredriks dream page."
+title-sv: "Jan Fredriks drömsida."
+title-no: "Jan Fredriks drømmeside."
+title-da: "Jan Fredriks drømmeside."
+subtitle: "TODO"
+subtitle-en: "TODO"
+subtitle-sv: "TODO"
+subtitle-no: "TODO"
+subtitle-da: "TODO"
 sidebar: example-sidebar
 ---
 
