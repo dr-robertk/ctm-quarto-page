@@ -43,22 +43,12 @@ jobs:
       # versions/index.html is a redirection to the latest fem version directory
       - name: checkout
         run: |
-          git clone -b gh-pages https://github.com/${{ github.repository }}
-          echo "TUTORIAL=tutorial" >> $GITHUB_ENV
-          
-      - name: latest2branch
-        run: |
-          cd ${{ github.event.repository.name }}
-          BRANCH=`git branch -r | grep "$TUTORIAL/" | sort -rn | head -1 | cut -d "/" -f 3`
-          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
-          echo "Using branch $BRANCH"
-          cd ../
+          git clone https://github.com/${{ github.repository }}
 
       - name: Quarto build
         run: |
           echo "Building quarto page $BRANCH"
 
-          # find other versions
           cd ${{ github.event.repository.name }}/content
           quarto render 
 
