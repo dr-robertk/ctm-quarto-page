@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "today"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+project:
+  render:
+    - "*.qmd"
+    - "!ignored.qmd"
+    - "!ignored-dir/"      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
