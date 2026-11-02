@@ -57,9 +57,9 @@ jobs:
         # only deploying on main branch
         if: ${{ github.event.inputs.deploy && github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' }}
         with:
-          publish_branch: gh-pages
+          publish_branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: webpage
+          publish_dir: docs
           # keep files to keep previous documentations
           keep_files: ${{ github.event.inputs.keepfiles }}
           #force_orphan: true
