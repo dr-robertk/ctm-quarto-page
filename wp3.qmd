@@ -1,0 +1,4 @@
+---
+title: "Work Package 3: Tutorials for mathematical computations in Python"
+sidebar: activities 
+---

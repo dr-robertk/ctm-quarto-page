@@ -1,0 +1,4 @@
+---
+title: "Work Package 5: Group projects for applied mathematics"
+sidebar: activities 
+---

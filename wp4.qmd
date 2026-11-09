@@ -1,0 +1,4 @@
+---
+title: "Work Package 4: Small thematic projects and exercises for computational thinking"
+sidebar: activities 
+---
