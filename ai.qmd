@@ -1,0 +1,76 @@
+
+---
+title: "AI & Education"
+subtitle: "Computational thinking in the age of AI"
+---
+
+## Mathematics, Programming, and Artificial Intelligence
+
+The rapid development of generative
+artificial intelligence has changed how
+students and educators interact with
+programming.
+
+AI tools can now generate code, explain
+mathematical concepts, and assist with
+problem-solving.
+
+This creates new opportunities, but also
+raises important questions about how
+programming and mathematics should be taught.
+
+## A New Perspective for CTM
+
+When CTM was originally conceived, the
+widespread use of generative AI was not
+a central consideration.
+
+As these technologies became increasingly
+accessible, questions about their role
+in mathematics and programming education
+became more relevant.
+
+This section explores how computational
+thinking can remain an important educational
+goal in a changing technological landscape.
+
+## Questions for Mathematics Education
+
+### What Should Students Learn?
+
+If AI can generate working code, which
+programming skills remain essential for
+students studying mathematics?
+
+How can computational thinking help
+students understand, evaluate, and
+critically use AI-generated solutions?
+
+### How Can Educators Adapt?
+
+AI-assisted programming introduces new
+possibilities for teaching and learning.
+
+It also raises questions about assessment,
+independent problem-solving, and how
+students demonstrate understanding.
+
+### Using AI Responsibly
+
+AI-generated explanations and code can
+contain mistakes.
+
+Students therefore need the mathematical
+knowledge and computational understanding
+required to evaluate results rather than
+accepting them uncritically.
+
+## Experiences and Future Directions
+
+This section will present relevant
+experiences, reflections, and educational
+resources as they are documented.
+
+The goal is to support thoughtful
+discussion about the future of mathematics
+and programming education.

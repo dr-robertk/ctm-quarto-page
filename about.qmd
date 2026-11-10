@@ -1,0 +1,195 @@
+
+---
+title: "About CTM"
+page-layout: article
+title-block-style: none
+toc: true
+toc-location: right
+toc-depth: 2
+---
+
+::: {.ctm-hero}
+
+**ABOUT THE PROJECT**
+
+# Bringing mathematics and programming together.
+
+Computational Thinking makes sense of Mathematics
+(CTM) is a collaborative European project
+exploring how programming and computational
+thinking can support university mathematics
+education.
+
+:::
+
+
+::: {.ctm-section}
+
+## Why CTM?
+
+Programming and computational thinking have
+become increasingly important in education,
+research, and professional life.
+
+However, their integration into university
+mathematics education remains uneven.
+
+CTM was created to help address this challenge
+by connecting educational experience across
+European universities and developing practical
+resources for teaching and learning.
+
+The ambition is simple: make it easier for
+students to learn mathematics through
+computation, and easier for educators to
+introduce programming into their teaching.
+
+:::
+
+
+:::: {.ctm-section .ctm-section-light}
+
+## Our Objectives
+
+CTM was designed around three connected goals.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### 01. Investigate
+
+Identify challenges, needs, and effective
+practices for integrating programming into
+undergraduate mathematics education.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### 02. Create
+
+Develop accessible tutorials, exercises,
+and mathematical projects that strengthen
+computational thinking and programming skills.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### 03. Connect
+
+Support collaboration and the exchange
+of educational resources between
+universities across Europe.
+
+:::
+
+:::
+
+:::
+
+::::
+
+
+::: {.ctm-section}
+
+## From Research to Resources
+
+The CTM project was designed to connect
+educational research with practical
+teaching materials.
+
+### Understanding the Challenges
+
+Surveys and interviews with students
+and educators were planned to identify
+needs, obstacles, and existing practices.
+
+### Developing Tutorials
+
+The project planned to develop
+browser-based learning modules to
+introduce programming and computational
+thinking in a mathematical context.
+
+### Creating Mathematical Projects
+
+The project also aimed to develop
+exercises and student projects that
+connect mathematical theory to
+computational applications.
+
+### Supporting Teaching Practice
+
+Another important area was exploring
+how computational projects can be used,
+evaluated, and assessed in
+university teaching.
+
+:::
+
+
+::: {.ctm-section .ctm-section-light}
+
+## Mathematics Education in the Age of AI
+
+As generative AI became more widely
+accessible, new questions emerged about
+the relationship between programming,
+mathematical understanding, and teaching.
+
+Although generative AI was not a central
+part of CTM's original objectives,
+its growing influence provides an
+important perspective on the future
+of computational mathematics education.
+
+[Explore AI & Education](ai.qmd)
+
+:::
+
+
+::: {.ctm-section .ctm-partners}
+
+## A European Collaboration
+
+CTM brings together five partner
+universities from across Europe.
+
+- **Lund University**, Sweden
+- **Aalborg University**, Denmark
+- **Technical University of Denmark**, Denmark
+- **University of Oslo**, Norway
+- **Ruhr University Bochum**, Germany
+
+The collaboration is intended to support
+the exchange of knowledge, experiences,
+and educational resources across
+institutional boundaries.
+
+:::
+
+
+::: {.ctm-section}
+
+## Explore CTM
+
+Discover the resources and teaching
+ideas associated with the project.
+
+[For Students](students.qmd){.ctm-button}
+
+[For Educators](educators.qmd){.ctm-button-outline}
+
+:::

@@ -1,0 +1,200 @@
+
+---
+title: "For Students"
+page-layout: article
+title-block-style: none
+toc: true
+toc-location: right
+toc-depth: 2
+---
+
+::: {.ctm-hero}
+
+**FOR STUDENTS**
+
+# Learn mathematics through code.
+
+Discover how programming and computational
+thinking can help you explore mathematical
+concepts, solve problems, and develop
+new ways of thinking.
+
+Whether you're completely new to programming
+or looking to develop your skills, CTM aims
+to make computational mathematics more accessible.
+
+:::
+
+
+::::: {.ctm-section}
+
+## Explore Learning Materials
+
+CTM aims to support your learning through
+three types of educational resources.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### Tutorials
+
+Learn programming step by step,
+using mathematical examples to
+develop your understanding.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### Exercises
+
+Practice computational thinking
+through mathematical problems
+and programming activities.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### Projects
+
+Apply programming and mathematical
+reasoning to more substantial problems
+and practical applications.
+
+:::
+
+:::
+
+::::
+
+:::::
+
+
+::::: {.ctm-section .ctm-section-light}
+
+## Example Learning Resources
+
+The cards below demonstrate how CTM
+teaching materials could be presented.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**TUTORIAL · BEGINNER**
+
+### Getting Started with Python
+
+Learn basic programming concepts
+through mathematical examples.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**EXERCISE · INTERMEDIATE**
+
+### Linear Algebra with Python
+
+Explore matrices, vectors, and
+linear algebra using computation.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**PROJECT · INTERMEDIATE**
+
+### Numerical Methods
+
+Investigate mathematical problems
+using numerical methods and programming.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**PROJECT · ADVANCED**
+
+### Mathematical Modelling
+
+Connect mathematical ideas with
+applications through computational modelling.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::::
+
+:::::
+
+
+::: {.ctm-section}
+
+## What Is Computational Thinking?
+
+Computational thinking is about more
+than simply writing code.
+
+It includes:
+
+- Breaking down complex problems
+- Recognizing patterns
+- Developing algorithms
+- Testing and evaluating solutions
+- Connecting computational results
+  to mathematical understanding
+
+These skills can help you approach
+mathematical problems in new ways.
+
+:::
+
+
+::: {.ctm-section .ctm-section-light}
+
+## Interested in the Project?
+
+CTM is a collaboration between European
+universities working to make programming
+and computational thinking more accessible
+in mathematics education.
+
+[Learn more about CTM](about.qmd){.ctm-button-outline}
+
+:::

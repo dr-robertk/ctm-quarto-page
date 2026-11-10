@@ -1,3 +1,38 @@
+
 project:
   type: website
-  output-dir: docs
+
+website:
+  title: "CTM"
+
+  navbar:
+    background: "#173447"
+    foreground: "#FFFFFF"
+    search: true
+
+    left:
+      - href: index.qmd
+        text: Home
+      - href: students.qmd
+        text: For Students
+      - href: educators.qmd
+        text: For Educators
+      - href: ai.qmd
+        text: AI & Education
+      - href: about.qmd
+        text: About CTM
+
+  page-footer:
+    center: |
+      Computational Thinking makes sense of Mathematics
+      (CTM) · A European university collaboration
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    anchor-sections: false
+    link-external-newwindow: true
+
+editor: visual

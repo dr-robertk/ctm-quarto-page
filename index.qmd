@@ -1,25 +1,241 @@
+
 ---
-title: "Jan Fredriks dream page."
-sidebar: example-sidebar
+title: "CTM"
+page-layout: article
+title-block-style: none
+toc: true
+toc-location: right
+toc-depth: 2
 ---
 
-Quarto turns plain `.qmd` files into interactive websites, PDFs, and presentations —
-no web development experience needed.
+::: {.ctm-hero}
 
-This mini-site explores the **sine function** and demonstrates Quarto's capabilities along the way.
+**MATHEMATICS · PROGRAMMING · EDUCATION**
 
-::: {.callout-tip}
-## CTM Project Overview 
-The CTM project .... 
+# Explore mathematics. Learn through code.
+
+Bringing programming and computational thinking
+into university mathematics education.
+
+CTM brings together European universities to
+explore how computation can support mathematical
+understanding, teaching, and learning.
+
+[Explore teaching materials](students.qmd){.ctm-button}
+
+[Discover the project](about.qmd){.ctm-button-outline}
+
 :::
 
-## Pages at a Glance
+::::: {.ctm-section}
 
-| | WP | Description |
-|:-:|------|-----------------|
-| 1 | [Project Management](wp1.qmd) | Callouts, columns, tabs |
-| 2 | [Mapping the need](wp2.qmd) | Mapping the use and need of instructional materials for programming in introductory mathematics courses at the post-secondary level |
-| 3 | [Tutorials for mathematical computations in Python](wp3.qmd) | Interactive plot, animation, exercises & diagram |
-| 4 | [Small thematic projects and exercises for computational thinking](wp4.qmd) | Novel and innovative mathematical curriculum |
-| 5 | [Group projects for applied mathematics](wp5.qmd) | Portfolio of mathematical projects |
+## What is CTM?
 
+**Computational Thinking makes sense of Mathematics
+(CTM)** is a European collaborative project focused
+on integrating programming and computational
+thinking into university mathematics education.
+
+The project aims to identify teaching needs,
+develop practical educational resources, and
+support students and educators across Europe.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .ctm-card}
+
+### 01. Understand
+
+Identify challenges, needs, and effective
+approaches to teaching mathematics with programming.
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .ctm-card}
+
+### 02. Develop
+
+Create tutorials, exercises, and mathematical
+projects that support computational thinking.
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .ctm-card}
+
+### 03. Share
+
+Make educational materials accessible and
+support their use across European universities.
+
+:::
+
+::::
+
+:::::
+
+::::: {.ctm-section .ctm-section-light}
+
+## Find your starting point
+
+Whether you are a student exploring mathematics
+through code or an educator developing new
+teaching activities, CTM aims to help you
+get started.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .ctm-card}
+
+### For Students
+
+Explore programming tutorials, mathematical
+exercises, and hands-on projects.
+
+[Explore student resources](students.qmd)
+
+:::
+
+::: {.g-col-12 .g-col-md-6 .ctm-card}
+
+### For Educators
+
+Discover teaching materials, practical guidance,
+and ideas for incorporating programming into
+mathematics courses.
+
+[Explore educator resources](educators.qmd)
+
+:::
+
+::::
+
+:::::
+
+::: {.ctm-section}
+
+## Mathematics Education in the Age of AI
+
+Generative AI is changing how students
+learn programming and approach mathematical
+problems.
+
+As teaching practices evolve, computational
+thinking remains important for understanding,
+evaluating, and applying computational methods.
+
+[Explore AI & Education](ai.qmd)
+
+:::
+
+::::: {.ctm-section .ctm-section-light}
+
+## From Ambition to Impact
+
+CTM was designed to make programming and
+computational thinking more accessible in
+university mathematics education.
+
+Its work was organized around several
+connected areas, from identifying teaching
+needs to developing educational materials
+and exploring assessment strategies.
+
+The sections below describe the project's
+planned areas of work. Verified results
+and materials will be added as they
+are reviewed.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+### 01. Understanding the Needs
+
+Investigating student and educator
+experiences, existing practices,
+and obstacles to introducing
+programming into mathematics teaching.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+### 02. Developing Tutorials
+
+Planning accessible programming
+tutorials and mathematical learning
+activities that support
+computational thinking.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+### 03. Creating Mathematical Projects
+
+Developing approaches to computational
+exercises and projects that connect
+mathematical theory with applications.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+### 04. Exploring Assessment
+
+Investigating ways to evaluate
+students' computational work
+and support meaningful learning
+through programming activities.
+
+:::
+
+:::
+
+::::
+
+:::::
+
+::: {.ctm-section}
+
+## Looking Ahead: Mathematics Education and AI
+
+Generative AI is changing how students
+interact with programming and mathematics.
+
+This development creates opportunities
+and challenges for teaching computational
+thinking, assessing student understanding,
+and developing new educational practices.
+
+[Explore AI & Education](ai.qmd){.ctm-button-outline}
+
+:::
+
+::: {.ctm-section .ctm-partners}
+
+## A European Collaboration
+
+CTM brings together five university partners:
+
+- Lund University, Sweden
+- Aalborg University, Denmark
+- Technical University of Denmark
+- University of Oslo, Norway
+- Ruhr University Bochum, Germany
+
+:::

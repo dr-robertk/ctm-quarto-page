@@ -1,0 +1,231 @@
+
+---
+title: "For Educators"
+page-layout: article
+title-block-style: none
+toc: true
+toc-location: right
+toc-depth: 2
+---
+
+::: {.ctm-hero}
+
+**FOR EDUCATORS**
+
+# Bring programming into your mathematics classroom.
+
+Explore teaching materials, practical
+guidance, and approaches to integrating
+computational thinking into university
+mathematics education.
+
+Whether you're new to programming
+or already use computational methods,
+CTM aims to support your teaching.
+
+:::
+
+
+::::: {.ctm-section}
+
+## Where Would You Like to Start?
+
+CTM aims to help educators use existing
+resources, develop new teaching activities,
+and explore effective teaching practices.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### 01. Use
+
+Explore tutorials, exercises, and
+mathematical projects that could
+be adapted for existing courses.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### 02. Create
+
+Learn about approaches to developing
+programming-based materials and
+computational mathematics activities.
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.ctm-card}
+
+### 03. Reflect
+
+Consider teaching experiences,
+student feedback, and approaches
+to evaluating computational work.
+
+:::
+
+:::
+
+::::
+
+:::::
+
+
+::::: {.ctm-section .ctm-section-light}
+
+## Example Educator Resources
+
+The following examples illustrate
+how educator materials could be
+organized on the CTM website.
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**TEACHING GUIDE**
+
+### Using CTM Materials
+
+Explore ways to incorporate
+programming tutorials and
+mathematical projects into courses.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**DEVELOPMENT GUIDE**
+
+### Creating Quarto Tutorials
+
+Learn how interactive,
+web-based educational materials
+can be developed using Quarto.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**PRACTICAL GUIDE**
+
+### Designing Mathematical Projects
+
+Explore approaches to creating
+programming activities that
+connect mathematics with
+computational applications.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.ctm-card}
+
+**TEACHING PRACTICE**
+
+### Assessment and Feedback
+
+Consider methods for assessing
+computational projects and
+supporting student learning.
+
+*Example resource - coming later*
+
+:::
+
+:::
+
+::::
+
+:::::
+
+
+::: {.ctm-section}
+
+## Supporting Computational Thinking
+
+Programming can be a powerful
+tool for exploring mathematical ideas.
+
+However, computational thinking
+involves more than writing code.
+
+It includes identifying problems,
+developing algorithms, evaluating
+solutions, and connecting computational
+results with mathematical reasoning.
+
+CTM aims to support educators
+in integrating these approaches
+into university mathematics teaching.
+
+:::
+
+
+::: {.ctm-section .ctm-section-light}
+
+## Teaching in the Age of AI
+
+Generative AI tools introduce
+new possibilities and challenges
+for programming education.
+
+How should students develop
+computational thinking when AI
+can generate code?
+
+How can educators assess mathematical
+understanding in an AI-supported
+learning environment?
+
+Explore these questions and
+their implications for teaching.
+
+[Explore AI & Education](ai.qmd){.ctm-button}
+
+:::
+
+
+::: {.ctm-section}
+
+## About the CTM Project
+
+CTM brings together universities
+across Europe to explore approaches
+to computational thinking and
+programming in mathematics education.
+
+[Discover the CTM project](about.qmd){.ctm-button-outline}
+
+:::
