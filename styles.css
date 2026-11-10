@@ -1,0 +1,28 @@
+
+/* ==================================
+   CTM RESOURCE LIBRARY
+   ================================== */
+
+.ctm-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ctm-card p {
+  margin-bottom: 0.5rem;
+}
+
+.ctm-card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.ctm-card a:hover {
+  text-decoration: underline;
+}
+
+/* Extra space around resource groups */
+.ctm-section-light {
+  padding: 2.5rem 0;
+}

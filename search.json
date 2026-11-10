@@ -1,16 +1,184 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jan Fredriks dream page.",
-    "section": "",
-    "text": "Quarto turns plain .qmd files into interactive websites, PDFs, and presentations — no web development experience needed.\nThis mini-site explores the sine function and demonstrates Quarto’s capabilities along the way."
+    "objectID": "about.html#why-ctm",
+    "href": "about.html#why-ctm",
+    "title": "About CTM",
+    "section": "Why CTM?",
+    "text": "Why CTM?\nProgramming and computational thinking have become increasingly important in education, research, and professional life.\nHowever, their integration into university mathematics education remains uneven.\nCTM was created to help address this challenge by connecting educational experience across European universities and developing practical resources for teaching and learning.\nThe ambition is simple: make it easier for students to learn mathematics through computation, and easier for educators to introduce programming into their teaching."
   },
   {
-    "objectID": "index.html#pages-at-a-glance",
-    "href": "index.html#pages-at-a-glance",
-    "title": "Jan Fredriks dream page.",
-    "section": "Pages at a Glance",
-    "text": "Pages at a Glance\n\n\n\n\nWP\nDescription\n\n\n\n\n1\nProject Management\nCallouts, columns, tabs\n\n\n2\nMapping the need\nMapping the use and need of instructional materials for programming in introductory mathematics courses at the post-secondary level\n\n\n3\nTutorials for mathematical computations in Python\nInteractive plot, animation, exercises & diagram\n\n\n4\nSmall thematic projects and exercises for computational thinking\nNovel and innovative mathematical curriculum\n\n\n5\nGroup projects for applied mathematics\nPortfolio of mathematical projects"
+    "objectID": "about.html#our-objectives",
+    "href": "about.html#our-objectives",
+    "title": "About CTM",
+    "section": "Our Objectives",
+    "text": "Our Objectives\nCTM was designed around three connected goals.\n\n\n\n01. Investigate\nIdentify challenges, needs, and effective practices for integrating programming into undergraduate mathematics education.\n\n\n\n\n02. Create\nDevelop accessible tutorials, exercises, and mathematical projects that strengthen computational thinking and programming skills.\n\n\n\n\n03. Connect\nSupport collaboration and the exchange of educational resources between universities across Europe."
+  },
+  {
+    "objectID": "about.html#from-research-to-resources",
+    "href": "about.html#from-research-to-resources",
+    "title": "About CTM",
+    "section": "From Research to Resources",
+    "text": "From Research to Resources\nThe CTM project was designed to connect educational research with practical teaching materials.\n\nUnderstanding the Challenges\nSurveys and interviews with students and educators were planned to identify needs, obstacles, and existing practices.\n\n\nDeveloping Tutorials\nThe project planned to develop browser-based learning modules to introduce programming and computational thinking in a mathematical context.\n\n\nCreating Mathematical Projects\nThe project also aimed to develop exercises and student projects that connect mathematical theory to computational applications.\n\n\nSupporting Teaching Practice\nAnother important area was exploring how computational projects can be used, evaluated, and assessed in university teaching."
+  },
+  {
+    "objectID": "about.html#mathematics-education-in-the-age-of-ai",
+    "href": "about.html#mathematics-education-in-the-age-of-ai",
+    "title": "About CTM",
+    "section": "Mathematics Education in the Age of AI",
+    "text": "Mathematics Education in the Age of AI\nAs generative AI became more widely accessible, new questions emerged about the relationship between programming, mathematical understanding, and teaching.\nAlthough generative AI was not a central part of CTM’s original objectives, its growing influence provides an important perspective on the future of computational mathematics education.\nExplore AI & Education"
+  },
+  {
+    "objectID": "about.html#a-european-collaboration",
+    "href": "about.html#a-european-collaboration",
+    "title": "About CTM",
+    "section": "A European Collaboration",
+    "text": "A European Collaboration\nCTM brings together five partner universities from across Europe.\n\nLund University, Sweden\nAalborg University, Denmark\nTechnical University of Denmark, Denmark\nUniversity of Oslo, Norway\nRuhr University Bochum, Germany\n\nThe collaboration is intended to support the exchange of knowledge, experiences, and educational resources across institutional boundaries."
+  },
+  {
+    "objectID": "about.html#explore-ctm",
+    "href": "about.html#explore-ctm",
+    "title": "About CTM",
+    "section": "Explore CTM",
+    "text": "Explore CTM\nDiscover the resources and teaching ideas associated with the project.\nFor Students\nFor Educators"
+  },
+  {
+    "objectID": "educators.html#where-would-you-like-to-start",
+    "href": "educators.html#where-would-you-like-to-start",
+    "title": "For Educators",
+    "section": "Where Would You Like to Start?",
+    "text": "Where Would You Like to Start?\nCTM aims to help educators use existing resources, develop new teaching activities, and explore effective teaching practices.\n\n\n\n01. Use\nExplore tutorials, exercises, and mathematical projects that could be adapted for existing courses.\n\n\n\n\n02. Create\nLearn about approaches to developing programming-based materials and computational mathematics activities.\n\n\n\n\n03. Reflect\nConsider teaching experiences, student feedback, and approaches to evaluating computational work."
+  },
+  {
+    "objectID": "educators.html#example-educator-resources",
+    "href": "educators.html#example-educator-resources",
+    "title": "For Educators",
+    "section": "Example Educator Resources",
+    "text": "Example Educator Resources\nThe following examples illustrate how educator materials could be organized on the CTM website.\n\n\n\nTEACHING GUIDE\n\nUsing CTM Materials\nExplore ways to incorporate programming tutorials and mathematical projects into courses.\nExample resource - coming later\n\n\n\n\n\nDEVELOPMENT GUIDE\n\nCreating Quarto Tutorials\nLearn how interactive, web-based educational materials can be developed using Quarto.\nExample resource - coming later\n\n\n\n\n\nPRACTICAL GUIDE\n\nDesigning Mathematical Projects\nExplore approaches to creating programming activities that connect mathematics with computational applications.\nExample resource - coming later\n\n\n\n\n\nTEACHING PRACTICE\n\nAssessment and Feedback\nConsider methods for assessing computational projects and supporting student learning.\nExample resource - coming later"
+  },
+  {
+    "objectID": "educators.html#supporting-computational-thinking",
+    "href": "educators.html#supporting-computational-thinking",
+    "title": "For Educators",
+    "section": "Supporting Computational Thinking",
+    "text": "Supporting Computational Thinking\nProgramming can be a powerful tool for exploring mathematical ideas.\nHowever, computational thinking involves more than writing code.\nIt includes identifying problems, developing algorithms, evaluating solutions, and connecting computational results with mathematical reasoning.\nCTM aims to support educators in integrating these approaches into university mathematics teaching."
+  },
+  {
+    "objectID": "educators.html#teaching-in-the-age-of-ai",
+    "href": "educators.html#teaching-in-the-age-of-ai",
+    "title": "For Educators",
+    "section": "Teaching in the Age of AI",
+    "text": "Teaching in the Age of AI\nGenerative AI tools introduce new possibilities and challenges for programming education.\nHow should students develop computational thinking when AI can generate code?\nHow can educators assess mathematical understanding in an AI-supported learning environment?\nExplore these questions and their implications for teaching.\nExplore AI & Education"
+  },
+  {
+    "objectID": "educators.html#about-the-ctm-project",
+    "href": "educators.html#about-the-ctm-project",
+    "title": "For Educators",
+    "section": "About the CTM Project",
+    "text": "About the CTM Project\nCTM brings together universities across Europe to explore approaches to computational thinking and programming in mathematics education.\nDiscover the CTM project"
+  },
+  {
+    "objectID": "ai.html",
+    "href": "ai.html",
+    "title": "AI & Education",
+    "section": "",
+    "text": "The rapid development of generative artificial intelligence has changed how students and educators interact with programming.\nAI tools can now generate code, explain mathematical concepts, and assist with problem-solving.\nThis creates new opportunities, but also raises important questions about how programming and mathematics should be taught."
+  },
+  {
+    "objectID": "ai.html#mathematics-programming-and-artificial-intelligence",
+    "href": "ai.html#mathematics-programming-and-artificial-intelligence",
+    "title": "AI & Education",
+    "section": "",
+    "text": "The rapid development of generative artificial intelligence has changed how students and educators interact with programming.\nAI tools can now generate code, explain mathematical concepts, and assist with problem-solving.\nThis creates new opportunities, but also raises important questions about how programming and mathematics should be taught."
+  },
+  {
+    "objectID": "ai.html#a-new-perspective-for-ctm",
+    "href": "ai.html#a-new-perspective-for-ctm",
+    "title": "AI & Education",
+    "section": "A New Perspective for CTM",
+    "text": "A New Perspective for CTM\nWhen CTM was originally conceived, the widespread use of generative AI was not a central consideration.\nAs these technologies became increasingly accessible, questions about their role in mathematics and programming education became more relevant.\nThis section explores how computational thinking can remain an important educational goal in a changing technological landscape."
+  },
+  {
+    "objectID": "ai.html#questions-for-mathematics-education",
+    "href": "ai.html#questions-for-mathematics-education",
+    "title": "AI & Education",
+    "section": "Questions for Mathematics Education",
+    "text": "Questions for Mathematics Education\n\nWhat Should Students Learn?\nIf AI can generate working code, which programming skills remain essential for students studying mathematics?\nHow can computational thinking help students understand, evaluate, and critically use AI-generated solutions?\n\n\nHow Can Educators Adapt?\nAI-assisted programming introduces new possibilities for teaching and learning.\nIt also raises questions about assessment, independent problem-solving, and how students demonstrate understanding.\n\n\nUsing AI Responsibly\nAI-generated explanations and code can contain mistakes.\nStudents therefore need the mathematical knowledge and computational understanding required to evaluate results rather than accepting them uncritically."
+  },
+  {
+    "objectID": "ai.html#experiences-and-future-directions",
+    "href": "ai.html#experiences-and-future-directions",
+    "title": "AI & Education",
+    "section": "Experiences and Future Directions",
+    "text": "Experiences and Future Directions\nThis section will present relevant experiences, reflections, and educational resources as they are documented.\nThe goal is to support thoughtful discussion about the future of mathematics and programming education."
+  },
+  {
+    "objectID": "students.html#explore-learning-materials",
+    "href": "students.html#explore-learning-materials",
+    "title": "For Students",
+    "section": "Explore Learning Materials",
+    "text": "Explore Learning Materials\nCTM aims to support your learning through three types of educational resources.\n\n\n\nTutorials\nLearn programming step by step, using mathematical examples to develop your understanding.\n\n\n\n\nExercises\nPractice computational thinking through mathematical problems and programming activities.\n\n\n\n\nProjects\nApply programming and mathematical reasoning to more substantial problems and practical applications."
+  },
+  {
+    "objectID": "students.html#example-learning-resources",
+    "href": "students.html#example-learning-resources",
+    "title": "For Students",
+    "section": "Example Learning Resources",
+    "text": "Example Learning Resources\nThe cards below demonstrate how CTM teaching materials could be presented.\n\n\n\nTUTORIAL · BEGINNER\n\nGetting Started with Python\nLearn basic programming concepts through mathematical examples.\nExample resource - coming later\n\n\n\n\n\nEXERCISE · INTERMEDIATE\n\nLinear Algebra with Python\nExplore matrices, vectors, and linear algebra using computation.\nExample resource - coming later\n\n\n\n\n\nPROJECT · INTERMEDIATE\n\nNumerical Methods\nInvestigate mathematical problems using numerical methods and programming.\nExample resource - coming later\n\n\n\n\n\nPROJECT · ADVANCED\n\nMathematical Modelling\nConnect mathematical ideas with applications through computational modelling.\nExample resource - coming later"
+  },
+  {
+    "objectID": "students.html#what-is-computational-thinking",
+    "href": "students.html#what-is-computational-thinking",
+    "title": "For Students",
+    "section": "What Is Computational Thinking?",
+    "text": "What Is Computational Thinking?\nComputational thinking is about more than simply writing code.\nIt includes:\n\nBreaking down complex problems\nRecognizing patterns\nDeveloping algorithms\nTesting and evaluating solutions\nConnecting computational results to mathematical understanding\n\nThese skills can help you approach mathematical problems in new ways."
+  },
+  {
+    "objectID": "students.html#interested-in-the-project",
+    "href": "students.html#interested-in-the-project",
+    "title": "For Students",
+    "section": "Interested in the Project?",
+    "text": "Interested in the Project?\nCTM is a collaboration between European universities working to make programming and computational thinking more accessible in mathematics education.\nLearn more about CTM"
+  },
+  {
+    "objectID": "index.html#what-is-ctm",
+    "href": "index.html#what-is-ctm",
+    "title": "CTM",
+    "section": "What is CTM?",
+    "text": "What is CTM?\nComputational Thinking makes sense of Mathematics (CTM) is a European collaborative project focused on integrating programming and computational thinking into university mathematics education.\nThe project aims to identify teaching needs, develop practical educational resources, and support students and educators across Europe.\n\n\n01. Understand\nIdentify challenges, needs, and effective approaches to teaching mathematics with programming.\n\n\n02. Develop\nCreate tutorials, exercises, and mathematical projects that support computational thinking.\n\n\n03. Share\nMake educational materials accessible and support their use across European universities."
+  },
+  {
+    "objectID": "index.html#find-your-starting-point",
+    "href": "index.html#find-your-starting-point",
+    "title": "CTM",
+    "section": "Find your starting point",
+    "text": "Find your starting point\nWhether you are a student exploring mathematics through code or an educator developing new teaching activities, CTM aims to help you get started.\n\n\nFor Students\nExplore programming tutorials, mathematical exercises, and hands-on projects.\nExplore student resources\n\n\nFor Educators\nDiscover teaching materials, practical guidance, and ideas for incorporating programming into mathematics courses.\nExplore educator resources"
+  },
+  {
+    "objectID": "index.html#mathematics-education-in-the-age-of-ai",
+    "href": "index.html#mathematics-education-in-the-age-of-ai",
+    "title": "CTM",
+    "section": "Mathematics Education in the Age of AI",
+    "text": "Mathematics Education in the Age of AI\nGenerative AI is changing how students learn programming and approach mathematical problems.\nAs teaching practices evolve, computational thinking remains important for understanding, evaluating, and applying computational methods.\nExplore AI & Education"
+  },
+  {
+    "objectID": "index.html#from-ambition-to-impact",
+    "href": "index.html#from-ambition-to-impact",
+    "title": "CTM",
+    "section": "From Ambition to Impact",
+    "text": "From Ambition to Impact\nCTM was designed to make programming and computational thinking more accessible in university mathematics education.\nIts work was organized around several connected areas, from identifying teaching needs to developing educational materials and exploring assessment strategies.\nThe sections below describe the project’s planned areas of work. Verified results and materials will be added as they are reviewed.\n\n\n\n01. Understanding the Needs\nInvestigating student and educator experiences, existing practices, and obstacles to introducing programming into mathematics teaching.\n\n\n\n\n02. Developing Tutorials\nPlanning accessible programming tutorials and mathematical learning activities that support computational thinking.\n\n\n\n\n03. Creating Mathematical Projects\nDeveloping approaches to computational exercises and projects that connect mathematical theory with applications.\n\n\n\n\n04. Exploring Assessment\nInvestigating ways to evaluate students’ computational work and support meaningful learning through programming activities."
+  },
+  {
+    "objectID": "index.html#looking-ahead-mathematics-education-and-ai",
+    "href": "index.html#looking-ahead-mathematics-education-and-ai",
+    "title": "CTM",
+    "section": "Looking Ahead: Mathematics Education and AI",
+    "text": "Looking Ahead: Mathematics Education and AI\nGenerative AI is changing how students interact with programming and mathematics.\nThis development creates opportunities and challenges for teaching computational thinking, assessing student understanding, and developing new educational practices.\nExplore AI & Education"
+  },
+  {
+    "objectID": "index.html#a-european-collaboration",
+    "href": "index.html#a-european-collaboration",
+    "title": "CTM",
+    "section": "A European Collaboration",
+    "text": "A European Collaboration\nCTM brings together five university partners:\n\nLund University, Sweden\nAalborg University, Denmark\nTechnical University of Denmark\nUniversity of Oslo, Norway\nRuhr University Bochum, Germany"
   }
 ]
